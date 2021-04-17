@@ -1,877 +1,233 @@
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
-INFO 2021-04-17 13:30:21 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
-INFO 2021-04-17 13:30:22 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
-INFO 2021-04-17 13:30:23 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041319.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041319.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041319.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041319.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041319.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041318.gif
-INFO 2021-04-17 13:30:24 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_1800.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041318.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041319.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041320.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041320.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041320.gif
-INFO 2021-04-17 13:30:25 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2100.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041321.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041319.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041321.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041319.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041321.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041321.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041320.gif
-INFO 2021-04-17 13:30:26 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041321.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041319.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041321.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041321.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041319.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041321.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041321.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041320.gif
-INFO 2021-04-17 13:30:27 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_1900.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041319.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041321.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041321.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2000.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041321.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041321.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041320.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041321.gif
-INFO 2021-04-17 13:30:28 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041320.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041320.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041320.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2000.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041321.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041320.gif
-INFO 2021-04-17 13:30:29 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041320.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041321.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041321.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041320.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041320.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2200.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041321.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2100.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2200.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041322.gif
-INFO 2021-04-17 13:30:30 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041323.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041321.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041323.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041321.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041322.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041321.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041323.gif
-INFO 2021-04-17 13:30:31 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041323.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041321.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2300.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041323.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041321.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041322.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041323.gif
-INFO 2021-04-17 13:30:32 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041321.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2300.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041322.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041322.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041322.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2100.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041321.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041322.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2200.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041322.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041323.gif
-INFO 2021-04-17 13:30:33 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/2-hour-Pressure-Change/pchg_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-SRH/effh_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/ML-CAPE/mlcp_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-2km-SR-Wind/llsr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/MUCAPE-EBWD/cpsh_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/MU-CAPE/mucp_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Anvil-Level-SR-Wind/alsr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-3km-Lapse-Rate-MLCAPE/lr3c_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041323.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/500mb-12hr-height-change/500mb_chg_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041400.gif
-INFO 2021-04-17 13:30:34 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041323.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Max-2-6km-Lapse-Rate/maxlr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Supercell-Composite-Parameter/scp_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-3km-MLCAPE-Vorticity/3cvr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041323.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041323.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/LCL-LFC-Mean-RH/lfrh_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Sig-Tor-Parameter/stor_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/PW-Upwind-Corfidi-Vectors/prop_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041323.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-Bulk-Shear/eshr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041400.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041323.gif
-INFO 2021-04-17 13:30:35 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-Sig-Tor-Parameter/stpc_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/925mb/925mb_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041323.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-8km-Bulk-Shear/shr8_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041323.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/NonSupercell-Tornado-Parameter/nstp_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/850mb/850mb_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041323.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-6km-Bulk-Shear/shr6_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041323.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Large-Hail-Parameter/lghl_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/700mb/700mb_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041400.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/rgnlrad//rad_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210414_0000.gif
-INFO 2021-04-17 13:30:36 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-1km-Bulk-Shear/shr1_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2300.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041323.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Sig-Hail-Parameter/sigh_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/500mb/500mb_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/bigsfc//sfc_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210414_0000.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-3km-Bulk-Shear/shr3_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/MLCAPE-EBWD/mlcp-eshr_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/300mb/300mb_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041400.gif
-INFO 2021-04-17 13:30:37 :: /usr/local/bin/wget -O /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/700-400-Diff-Vort-Adv/vadv_20210414_0000.gif https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041400.gif
-INFO 2021-04-17 13:30:38 :: Function: get_files took: 16.9354 sec
-INFO 2021-04-17 13:30:38 :: ************************
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_1900.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_1900.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_1900.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_1900.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_1800.gif
-INFO 2021-04-17 13:32:46 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_1900.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_1800.gif
-INFO 2021-04-17 13:32:47 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_1800.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_1900.gif
-INFO 2021-04-17 13:32:48 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_1800.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_1800.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_1800.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_1800.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_1800.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2000.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2000.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2000.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2100.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2100.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_1900.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2000.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2000.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2100.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2100.gif
-INFO 2021-04-17 13:32:49 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_1900.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2100.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2100.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_1900.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2100.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2100.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_1900.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2000.gif
-INFO 2021-04-17 13:32:50 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_1900.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2000.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2100.gif
-INFO 2021-04-17 13:32:51 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2000.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2100.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2200.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2200.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2200.gif
-INFO 2021-04-17 13:32:52 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2300.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2100.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2100.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2300.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2100.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2300.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2100.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-8km-Bulk-Shear/shr8_20210413_2300.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2200.gif
-INFO 2021-04-17 13:32:53 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2100.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-6km-Bulk-Shear/shr6_20210413_2300.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2100.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-1km-Bulk-Shear/shr1_20210413_2300.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/rgnlrad//rad_20210413_2300.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Lapse-Rate-MLCAPE/lr3c_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2200.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2100.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-Bulk-Shear/shr3_20210413_2300.gif
-INFO 2021-04-17 13:32:54 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-3km-MLCAPE-Vorticity/3cvr_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/bigsfc//sfc_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Max-2-6km-Lapse-Rate/maxlr_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2100.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-SRH/effh_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/2-hour-Pressure-Change/pchg_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/LCL-LFC-Mean-RH/lfrh_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/0-2km-SR-Wind/llsr_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2100.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/ML-CAPE/mlcp_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Bulk-Shear/eshr_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Anvil-Level-SR-Wind/alsr_20210413_2300.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2100.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2200.gif
-INFO 2021-04-17 13:32:55 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MU-CAPE/mucp_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Supercell-Composite-Parameter/scp_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/PW-Upwind-Corfidi-Vectors/prop_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/2-hour-Pressure-Change/pchg_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-SRH/effh_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/MUCAPE-EBWD/cpsh_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/500mb-12hr-height-change/500mb_chg_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/925mb/925mb_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/ML-CAPE/mlcp_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Tor-Parameter/stor_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-2km-SR-Wind/llsr_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-3km-Lapse-Rate-MLCAPE/lr3c_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Effective-Sig-Tor-Parameter/stpc_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/850mb/850mb_20210413_2300.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Anvil-Level-SR-Wind/alsr_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/MU-CAPE/mucp_20210414_0000.gif
-INFO 2021-04-17 13:32:56 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-3km-MLCAPE-Vorticity/3cvr_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/NonSupercell-Tornado-Parameter/nstp_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Max-2-6km-Lapse-Rate/maxlr_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Supercell-Composite-Parameter/scp_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700mb/700mb_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/PW-Upwind-Corfidi-Vectors/prop_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Large-Hail-Parameter/lghl_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/LCL-LFC-Mean-RH/lfrh_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Sig-Tor-Parameter/stor_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb/500mb_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/925mb/925mb_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/Sig-Hail-Parameter/sigh_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-Sig-Tor-Parameter/stpc_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Effective-Bulk-Shear/eshr_20210414_0000.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/300mb/300mb_20210413_2300.gif
-INFO 2021-04-17 13:32:57 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/850mb/850mb_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MLCAPE-EBWD/mlcp-eshr_20210413_2300.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/NonSupercell-Tornado-Parameter/nstp_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-8km-Bulk-Shear/shr8_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/700-400-Diff-Vort-Adv/vadv_20210413_2300.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/700mb/700mb_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/Large-Hail-Parameter/lghl_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/0-6km-Bulk-Shear/shr6_20210414_0000.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/500mb-12hr-height-change/500mb_chg_20210413_2300.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210413/MUCAPE-EBWD/cpsh_20210413_2300.gif
-INFO 2021-04-17 13:32:58 :: /Users/leecarlaw/scripts/get-spcmeso/downloads/18/20210414/500mb/500mb_20210414_0000.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
-INFO 2021-04-17 13:35:13 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041319.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
-INFO 2021-04-17 13:35:14 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041319.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041318.gif
-INFO 2021-04-17 13:35:15 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041318.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041318.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041318.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2100.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041321.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041320.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041319.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041321.gif
-INFO 2021-04-17 13:35:16 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041319.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041319.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041319.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041320.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041321.gif
-INFO 2021-04-17 13:35:17 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041321.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
-INFO 2021-04-17 13:39:42 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
-INFO 2021-04-17 13:39:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
-INFO 2021-04-17 13:42:43 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
-INFO 2021-04-17 13:42:44 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp-eshr/mlcp-eshr_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
-INFO 2021-04-17 13:42:45 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041318.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041319.gif
-INFO 2021-04-17 13:42:46 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041318.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041319.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041320.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041320.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041320.gif
-INFO 2021-04-17 13:42:47 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2100.gif
-INFO 2021-04-17 13:42:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041318.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
-INFO 2021-04-17 13:44:48 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
-INFO 2021-04-17 13:44:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041319.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041318.gif
-INFO 2021-04-17 13:44:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041319.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041318.gif
-INFO 2021-04-17 13:44:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041319.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041319.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041319.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2100.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041321.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041319.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041321.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041321.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041319.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041320.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041321.gif
-INFO 2021-04-17 13:44:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041321.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041319.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041321.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041321.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041319.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041321.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041320.gif
-INFO 2021-04-17 13:44:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041321.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041319.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041321.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041321.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2000.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041321.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041321.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2000.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041320.gif
-INFO 2021-04-17 13:44:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041321.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041321.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041321.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041321.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041321.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041320.gif
-INFO 2021-04-17 13:44:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2100.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041320.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041323.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041322.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041321.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041323.gif
-INFO 2021-04-17 13:44:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2200.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041321.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041323.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2200.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041321.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041322.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041323.gif
-INFO 2021-04-17 13:44:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041321.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041323.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041323.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041321.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2300.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041321.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041323.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041322.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2300.gif
-INFO 2021-04-17 13:44:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041321.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041321.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041322.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041323.gif
-INFO 2021-04-17 13:44:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041322.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041322.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041323.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041400.gif
-INFO 2021-04-17 13:45:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041400.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041323.gif
-INFO 2021-04-17 13:45:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041323.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041323.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041323.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041400.gif
-INFO 2021-04-17 13:45:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041323.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041323.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041323.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041400.gif
-INFO 2021-04-17 13:45:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041400.gif
-INFO 2021-04-17 13:45:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210414_0000.gif
-INFO 2021-04-17 13:45:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210414_0000.gif
-INFO 2021-04-17 13:45:05 :: Function: get_files took: 16.5198 sec
-INFO 2021-04-17 13:45:05 :: ************************
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1800.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041318.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041318.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041318.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041319.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041319.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1800.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041318.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041319.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041318.gif
+INFO 2021-04-17 13:52:49 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041319.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041319.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041319.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041319.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041318.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041319.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_1900.gif
+INFO 2021-04-17 13:52:50 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_1900.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041319.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041318.gif
+INFO 2021-04-17 13:52:51 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041318.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041319.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041319.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041318.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041318.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041319.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041318.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041319.gif
+INFO 2021-04-17 13:52:52 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041318.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041318.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041318.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041318.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041320.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041320.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041320.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041319.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041320.gif
+INFO 2021-04-17 13:52:53 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041318.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041319.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041318.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041319.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041320.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041319.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041319.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2100.gif
+INFO 2021-04-17 13:52:54 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041321.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041321.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041319.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041319.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041321.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041321.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041320.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2000.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041321.gif
+INFO 2021-04-17 13:52:55 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041321.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041320.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041321.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041320.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041321.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2000.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041320.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041320.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041320.gif
+INFO 2021-04-17 13:52:56 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041320.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041320.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041320.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041321.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041321.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041321.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041320.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041321.gif
+INFO 2021-04-17 13:52:57 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041320.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041320.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041320.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041322.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2200.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041320.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041321.gif
+INFO 2021-04-17 13:52:58 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2200.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041320.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2100.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041321.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041322.gif
+INFO 2021-04-17 13:52:59 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041323.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041323.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041322.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041321.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041323.gif
+INFO 2021-04-17 13:53:00 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041323.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041321.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041321.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041323.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041323.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041322.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210413_2300.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041323.gif
+INFO 2021-04-17 13:53:01 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041322.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041322.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210413_2300.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041322.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041322.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041323.gif
+INFO 2021-04-17 13:53:02 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041322.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/pchg/pchg_21041400.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041322.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp/mlcp_21041400.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mucp/mucp_21041400.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041322.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/effh/effh_21041400.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041323.gif
+INFO 2021-04-17 13:53:03 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041323.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041323.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/maxlr/maxlr_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/llsr/llsr_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041323.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lfrh/lfrh_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/cpsh/cpsh_21041323.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/alsr/alsr_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb_chg/500mb_chg_21041323.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041400.gif
+INFO 2021-04-17 13:53:04 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/eshr/eshr_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lr3c/lr3c_21041323.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/scp/scp_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/rgnlrad/rad_20210414_0000.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/prop/prop_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr8/shr8_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/3cvr/3cvr_21041323.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stor/stor_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/bigsfc/sfc_210414_0000.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/925mb/925mb_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr6/shr6_21041400.gif
+INFO 2021-04-17 13:53:05 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/stpc/stpc_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/850mb/850mb_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr1/shr1_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/nstp/nstp_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/700mb/700mb_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/shr3/shr3_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/lghl/lghl_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/500mb/500mb_21041400.gif
+INFO 2021-04-17 13:53:06 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/sigh/sigh_21041400.gif
+INFO 2021-04-17 13:53:07 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/300mb/300mb_21041400.gif
+INFO 2021-04-17 13:53:07 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/mlcp_eshr/mlcp_eshr_21041400.gif
+INFO 2021-04-17 13:53:07 :: https://www.spc.noaa.gov/exper/mesoanalysis/s18/vadv/vadv_21041400.gif
+INFO 2021-04-17 13:53:08 :: Function: get_files took: 18.6549 sec
+INFO 2021-04-17 13:53:08 :: ************************
