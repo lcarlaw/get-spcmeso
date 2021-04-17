@@ -9,11 +9,11 @@ analysis. Additional parameters can be added to the `parms.py` file.
 python main.py START_TIME END_TIME [-d DOMAIN]
 ```
 
-`START_TIME`: First hour of archived data to download. Form is `YYYY-mm-dd/HH`.
+* `START_TIME`: First hour of archived data to download. Form is `YYYY-mm-dd/HH`.
 
-`END_TIME`: First hour of archived data to download. Form is `YYYY-mm-dd/HH`.
+* `END_TIME`: First hour of archived data to download. Form is `YYYY-mm-dd/HH`.
 
-`DOMAIN`: Numerical domain value (at the end of the SPC mesoanalysis url). Defaults to 20.
+* `DOMAIN`: Numerical domain value (at the end of the SPC mesoanalysis url). Defaults to 20.
 
 Log files will be updated in the `./logs` directory and output will save to the `./downloads` directory.
 
